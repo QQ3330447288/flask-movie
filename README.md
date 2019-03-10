@@ -1,2 +1,1 @@
 # flask-movie
-python-flask
